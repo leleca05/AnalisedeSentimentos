@@ -1,4 +1,6 @@
-# Analise de Sentimentos
+# Análise de Sentimentos com Language Studio no Azure AI
+Projeto desenvolvido para o Decoola Tech 2025
+________________________________________________________________________________________________________________________________
 * Primeira avaliação:
 "Visitei o restaurante ontem e fiquei extremamente satisfeito com a experiência! O prato principal estava delicioso, com tempero na medida certa e servido no ponto ideal. O atendimento foi ágil e muito atencioso. Sem dúvida, voltarei em breve!"
 https://github.com/leleca05/AnalisedeSentimentos/blob/f408ddc03b3445581dbdbb0417c75f22a227f110/avaliacao1.png
