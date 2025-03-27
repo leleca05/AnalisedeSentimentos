@@ -2,17 +2,17 @@
 Projeto desenvolvido para o Decoola Tech 2025
 ________________________________________________________________________________________________________________________________
 * Primeira avaliação:
-* 
+
 "Visitei o restaurante ontem e fiquei extremamente satisfeito com a experiência! O prato principal estava delicioso, com tempero na medida certa e servido no ponto ideal. O atendimento foi ágil e muito atencioso. Sem dúvida, voltarei em breve!"
 https://github.com/leleca05/AnalisedeSentimentos/blob/f408ddc03b3445581dbdbb0417c75f22a227f110/avaliacao1.png
 
 * Segunda avaliação:
-* 
+
 "A experiência foi boa, mas poderia ser ainda melhor. A comida estava saborosa, embora não tenha se destacado tanto. O atendimento demorou um pouco, e percebi que o restaurante estava bem movimentado. Considerando o preço, esperava um serviço um pouco mais ágil, mas, ainda assim, foi uma experiência agradável."
 https://github.com/leleca05/AnalisedeSentimentos/blob/f408ddc03b3445581dbdbb0417c75f22a227f110/avaliacao2.png
 
 * Terceira avaliação:
-* 
+
   "Minha experiência não foi tão positiva desta vez. O pedido levou um pouco mais de tempo do que eu esperava para chegar, e quando finalmente chegou, estava frio. Notei também que a equipe parecia bem atarefada e não tão atenciosa. Apesar disso, espero que seja apenas um episódio isolado, e talvez eu dê uma nova chance em outra ocasião."
   https://github.com/leleca05/AnalisedeSentimentos/blob/f408ddc03b3445581dbdbb0417c75f22a227f110/avaliacao3.png
   _____________________________________________________________________________________________________________________________
